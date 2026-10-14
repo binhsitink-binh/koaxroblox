@@ -5,5 +5,5 @@ local pid = game.PlaceId
 if pid == 98502499119821 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/NoahTyrant/StarCrow/refs/heads/main/Heavyweigh%20Fishing"))()
 else
-    lp:Kick("Game not supported")
+    lp:Kick("Game not supported |KOAX| game không được hỗ trợ")
 end
